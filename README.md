@@ -1,2 +1,2 @@
-# db
-Podklady pro výuku informačních systémů
+# Informační systémy
+Podklady pro výuku
