@@ -53,6 +53,11 @@ Jako `CSV`, jen místo `,` nebo `;` je oddělovačem znak tabulátoru:
 <img src="../img/tsv.png" width="500">
 
 
+## 💾 Cvičení
+
+1. Export dat z Excelu do CSV
+2. Import CSV do Excelu
+
 
 
 ## Shrnutí
@@ -62,5 +67,6 @@ Jako `CSV`, jen místo `,` nebo `;` je oddělovačem znak tabulátoru:
 - Dávejte pozor na oddělovače: `CSV` v Česku většinou středník (`;`), jinde často čárka (`,`),
 - `TSV` – univerzální, ale méně běžný.
 - Soubory můžete otevřít i v textovém editoru – uvidíte čistý text.
+- Obecně problematický je datum.
 
 
